@@ -7,7 +7,7 @@ font pango:Hurmit Nerd Font Mono Bold 8
 floating_modifier $mod
 
 # gaps
-gaps inner 15
+gaps inner 30
 gaps outer 0
 
 # start a terminal
