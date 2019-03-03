@@ -38,7 +38,7 @@
      markdown
      nginx
      org
-     pandoc
+;;   pandoc
      php
      plantuml
      prodigy
@@ -63,7 +63,7 @@
      typescript
      typography
      version-control
-     wakatime
+;;   wakatime
      windows-scripts
      yaml
      ycmd
